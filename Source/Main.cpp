@@ -24,7 +24,7 @@
 // Done: Toroidal collision detection
 // - The collision on asteroids needs to be duplicated to all of the asteroids that are drawn. (all 9 per)
 // Reset game properly on death
-// High scores (Writting to files)
+// Done: High scores (Writting to files)
 // Multiple levels of difficulty (More spawn or they move faster)
 
 // Review: FacingVector function (theta, cos, sin)
