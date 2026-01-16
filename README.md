@@ -1,5 +1,7 @@
 **Welcome to Asteroids!!!**
 
+Video Demo: https://youtu.be/PDNSYJxtyQI
+
 **Game Description**
 
 A from-scratch implementation of the classic arcade game Asteroids, built in C++ using SDL2 for rendering, input, and audio handling (audio not yet implemented). The player controls a Tie Fighter-inspired ship that can rotate, thrust, and fire projectiles in a wrap-around (toroidal) playfield filled with destructible asteroids.
